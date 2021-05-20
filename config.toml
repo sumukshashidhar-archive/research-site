@@ -1,3 +1,4 @@
+publishdir = "./docs/"
 title = "Sumuk Shashidhar"
 baseURL = "https://research.sumukshashidhar.com"
 theme = "hugo-researcher"
